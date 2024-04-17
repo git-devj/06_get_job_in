@@ -1,0 +1,1 @@
+.vscode - task.json 에서 "tasks": [ - "args": [의 "-lsqlite3" DB 이후 제거
